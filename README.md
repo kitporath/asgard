@@ -40,6 +40,7 @@ major primitive decided from experience, not invented by an agent).
 | [docs/architecture.md](docs/architecture.md) | Platform shape (roles only) |
 | [docs/decisions.md](docs/decisions.md) | Why this generation exists |
 | [docs/lineage.md](docs/lineage.md) | Valhalla -> Asgard -> KWS -> products |
+| [docs/incidents.md](docs/incidents.md) | What went wrong, what was caught before it went wrong |
 | [patterns/](patterns/) | Example-only sketches |
 | [SANITIZATION.md](SANITIZATION.md) | What never ships here |
 
