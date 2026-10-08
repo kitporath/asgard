@@ -3,7 +3,7 @@
 ## Intent
 
 Provide a durable enterprise-class private platform: compute virtualization,
-Kubernetes, storage, networking, and GitOps — suitable for running serious
+Kubernetes, storage, networking, and GitOps, suitable for running serious
 workloads (including later AI product stacks) without depending on public cloud.
 
 ## Building blocks (roles)

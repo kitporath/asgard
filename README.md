@@ -2,7 +2,7 @@
 
 Enterprise hardware, 10G fabric, a hypervisor layer and a modern Kubernetes path,
 operated with GitOps discipline. The completed platform generation that precedes
-[KWS](https://github.com/sovereignty-labs/kws) — and still the production host for
+[KWS](https://github.com/sovereignty-labs/kws), and still the production host for
 product workloads.
 
 **Its most valuable artifact is an audit that found the platform one disk away from
@@ -14,7 +14,7 @@ the only backup in existence was a snapshot taken during the audit itself.
 >
 > This is the worst category of risk: catastrophic, total, and invisible.
 
-Nothing failed. It was found by looking — which is the entire point, and where the
+Nothing failed. It was found by looking, which is the entire point, and where the
 operating doctrine carried into KWS came from.
 
 | | |
@@ -47,12 +47,12 @@ The generation where the rack and the platform stopped being a toy:
 - Platform services run with GitOps discipline
 - A live home for agent product workloads, not a demo
 
-The earlier lab generation — **Valhalla**, a small-form-factor k3s cluster — taught the
+The earlier lab generation, **Valhalla**, a small-form-factor k3s cluster, taught the
 painful lessons cheaply. Asgard is where they were applied properly.
 
 ## How it was built
 
-Manual-heavy construction with AI guidance on implementation — **architecture and
+Manual-heavy construction with AI guidance on implementation. **Architecture and
 tradeoffs owned by the operator.** That judgment carried directly into KWS: every major
 primitive there was decided from experience here, not invented by an agent.
 
@@ -70,7 +70,7 @@ storage patterns · enterprise NIC / 10G fabric
 ## What this repository is
 
 A **curated extract, not a mirror.** Architecture, decisions and incidents are public;
-operational trees, inventories and secrets are not — see
+operational trees, inventories and secrets are not. See
 [SANITIZATION.md](SANITIZATION.md). Hosts appear by role.
 
 **Related** · [KWS](https://github.com/sovereignty-labs/kws) — the private AI cloud
@@ -78,4 +78,4 @@ that followed · [Sovereignty Labs](https://github.com/sovereignty-labs)
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Examples are illustrative only.
+MIT. See [LICENSE](LICENSE). Examples are illustrative only.
