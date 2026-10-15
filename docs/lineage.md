@@ -10,7 +10,7 @@ Valhalla          Asgard                 KWS                    Products
 |------------|-----------|----------------|
 | Valhalla | Small hardware, early K8s, 1G, manual lessons | Mention only |
 | **Asgard** | Enterprise gear, 10G, finished platform shape | **This repo** |
-| **KWS** | Full private AI cloud (GitOps, SSO, Vault, GPU inference, agent ops) | [kws](https://github.com/sovereignty-labs/kws) |
+| **KWS** | Full private AI cloud (GitOps, SSO, Vault, GPU inference, agent ops) | [kws](https://github.com/kitporath/kws) |
 | Products | Hirdforge, the multi-agent platform. Anvil, the old llama.cpp wrapper, is deprecated. | Project-owned GitHub |
 
 **Interview line:** Asgard is where "real platform" became real; KWS is the AI-cloud

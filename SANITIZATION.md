@@ -14,7 +14,7 @@ Curated portfolio extract. Not the operational GitOps monorepo.
 
 - Role diagrams and generation narrative
 - Generic pattern sketches
-- Cross-links to [kws](https://github.com/sovereignty-labs/kws) for AI-cloud detail
+- Cross-links to [kws](https://github.com/kitporath/kws) for AI-cloud detail
 
 ## Before every push
 

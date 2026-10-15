@@ -2,7 +2,7 @@
 
 Enterprise hardware, 10G fabric, a hypervisor layer and a modern Kubernetes path,
 operated with GitOps discipline. The completed platform generation that precedes
-[KWS](https://github.com/sovereignty-labs/kws), and still the production host for
+[KWS](https://github.com/kitporath/kws), and still the production host for
 product workloads.
 
 **Its most valuable artifact is an audit that found the platform one disk away from
@@ -21,7 +21,7 @@ operating doctrine carried into KWS came from.
 |--|--|
 | **Role** | Sole architect & operator |
 | **Status** | Completed · runs Hirdforge in production |
-| **Lineage** | Valhalla (lab) → **Asgard** → [KWS](https://github.com/sovereignty-labs/kws) |
+| **Lineage** | Valhalla (lab) → **Asgard** → [KWS](https://github.com/kitporath/kws) |
 
 ---
 
@@ -73,8 +73,8 @@ A **curated extract, not a mirror.** Architecture, decisions and incidents are p
 operational trees, inventories and secrets are not. See
 [SANITIZATION.md](SANITIZATION.md). Hosts appear by role.
 
-**Related** · [KWS](https://github.com/sovereignty-labs/kws) — the private AI cloud
-that followed · [Sovereignty Labs](https://github.com/sovereignty-labs)
+**Related** · [KWS](https://github.com/kitporath/kws) — the private AI cloud
+that followed · [kitporath.com](https://kitporath.com)
 
 ## License
 
